@@ -5,7 +5,11 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>your-group-id</groupId>  <artifactId>your-artifact-id</artifactId>  <packaging>jar</packaging>  <version>1.0-SNAPSHOT</version>  <dependencies>
+  <groupId>your-group-id</groupId>  
+  <artifactId>your-artifact-id</artifactId>  
+  <packaging>jar</packaging>  
+  <version>1.0-SNAPSHOT</version>  
+  <dependencies>
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
@@ -27,7 +31,8 @@
       <version>2.6</version>
     </dependency>
     <dependency>
-      <groupId>platform-assets-common</groupId>  <artifactId>platform-assets-common</artifactId>
+      <groupId>platform-assets-common</groupId>
+	  <artifactId>platform-assets-common</artifactId>
       <version>4.4.7</version>
     </dependency>
     <dependency>
